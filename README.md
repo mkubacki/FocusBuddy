@@ -7,13 +7,13 @@ Mit FocusBuddy kann du dich jederzeit einen anderen FocusSeeker fürs Coworken f
 
 Das ist das Motto von FocusBuddy.
 
-### So funktionierts
+## So funktionierts
 
 Du als FocusSeeker überlegst dir, wann du Unterstützung für konzentriertes Arbeiten brauchst. Bei FocusBuddy dauert ein FocusBlock immer 50min.
 
 ####  Buchen
 
-1. Du trägst dich mit deinem Wunsch für einen FokusBlock in den FocusBuddy-Kalender ein.
+1. Du trägst dich mit deinem Wunsch für einen FokusBlock in den FocusBuddy-Kalender ein. Was du in deinem FocusBlock schaffen willst, ist deine Sache. Das kann etwas am Computer sein, aber du könntest auch nur dein Arbeitszimmer aufräumen wollen.
 2. FocusBuddy findet für dich einen anderen FocusSeeker, der zum selben Zeitpunkt Konzentrationshilfe wünscht.
 
 Damit ist deine FocusBlock-Buchung abgeschlossen.
@@ -30,7 +30,7 @@ FocusBuddy funktioniert anonym, wenn du willst. Du musst weder deinen Namen, noc
 
 Happy focussing!
 
-# Zweck
+## Zweck
 
 FocusBuddy ist ein Beispielprojekt für *Programming with Ease*. Anhand des skizzierten Service sollen Prinzipien und Praktiken aus der *Programming with Ease* Methode ausprobiert und veranschaulicht werden.
 
@@ -39,6 +39,3 @@ Insofern muss sich FocusBuddy nicht an einem Markt als Service bewähren. Als Do
 Aus der Luft gegriffen ist FocusBuddy allerdings nicht! Das Problem, sich nicht gut fokussieren zu können, wenn man allein arbeitet (Stichwort Homeoffice) ist real. Coworking als Lösungsangebot ist ebenso real und inzwischen ein [weltweites Business](https://essensys.tech/blog/2019-coworking-market-forecast/). Und es gibt auch schon Angebote für non-co-located Coworking wie [Focusmate](https://www.focusmate.com/).
 
 FocusBuddy als nicht zu kleine und nicht zu große Domäne will daran anschließen, indem es ermöglicht, non-co-located von Coworking zu profitieren, selbst wenn eine gemeinsame Videositzung nicht möglich (oder nicht gewünscht) ist.
-
-
-
