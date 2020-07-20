@@ -69,6 +69,24 @@ Wenn ich auf der FocusBlock-Seite bleibe, werde ich auf das Ende des FocusBlocks
 
 Allerdings kann ich später zu der FocusBlock-Seite zurückkommen und sehe den Block als beendet. Innerhalb von 24h nach FocusBlock-Ende kann ich noch eine Reflexion nachtragen.
 
+## Ich will eine Übersicht über mein "Konzentrationsvermögen" bekommen
+
+Wenn ich wissen will, wie es mit meiner Konzentration gelaufen ist, kann ich meine FocusBuddy-Profilseite aufrufen und sehe den Verlauf meiner FocusBlocks.
+
+In der Übersicht ist zu jedem Block ein Auszug aus der Beschreibung der Aufgabe zu sehen und meine Skalenantwort. Außerdem stehen dort natürlich der Termin und der FocusSeeker, mit dem ich gecoworkt habe. Und wenn ich (oder er) nicht aufgetaucht sind, ist das ebenfalls vermerkt.
+
+Von dieser Liste der FocusBlocks kann ich wechseln in eine grafische Ansicht, die die Entwicklung des Skalenwerts für die Konzentration als Kurve zeigt.
+
+## Ich will über die Entwicklung meiner Aufgabenerledigungen reflektieren
+
+In der FocusBuddy-Profilseite kann ich jeden Eintrag im Verlauf der FocusBlocks nochmal *en detail* betrachten, indem ich ihn gezielt auswähle. Dann sehe ich das vollständige Commitment und meine ganze Reflexion.
+
+## Ich will einen Überblick meiner Zeitnutzung bekommen
+
+Die Liste meiner FocusBlocks kann ich auch in einer Kalenderübersicht betrachten. So ist es leichter für mich zu sehen, wie oft und lange und wann ich in einem längeren Zeitraum konzentriert gearbeitet habe. Für diese Kalenderübersicht kann ich die Zahl der Wochen, die angezeigt werden, wählen (z.B. 4 Wochen oder 8 Wochen).
+
+In der Ansicht ist es mir nicht so wichtig zu sehen, was genau ich wann getan habe, sondern wann in welchem Umfang meine Konzentrationsphasen lagen.
+
 
 
 
