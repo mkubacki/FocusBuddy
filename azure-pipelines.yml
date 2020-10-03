@@ -26,3 +26,11 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'FB'
     publishLocation: 'Container'
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Azure_Mikubo'
+    appType: 'webAppLinux'
+    WebAppName: 'focusbuddy'
+    packageForLinux: '$(Build.ArtifactStagingDirectory)/**/*.zip'
+    RuntimeStack: 'DOTNETCORE|3.1'
